@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;a
+    padding: 0;
     box-sizing: border-box;
 } 
 
@@ -323,9 +323,9 @@ h3{
     outline: none;
 }
 
-.form-signup {
-    box-sizing: inherit;
-}
+/* .form-signup {
+    
+} */
 
 
 
